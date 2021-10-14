@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/andre-alvarez-5b2498106/detail/contact-info/">
+<a href="https://www.linkedin.com/in/andre-alvarez-5b2498106/">
 <code>
     <img alt="Andre Alvarez | LinkedIn" height="20px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" />
   </code>

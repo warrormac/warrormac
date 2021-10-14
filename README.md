@@ -9,6 +9,12 @@
 
 ### Connect with me:
 
+<a href="https://www.linkedin.com/in/andre-alvarez-5b2498106/detail/contact-info/">
+<code>
+    <img alt="Andre Alvarez | LinkedIn" height="20px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" />
+  </code>
+</a>
+
 <a href="https://www.instagram.com/andre_alvarez_251/">
   <code>
     <img alt="Andre Alvarez | Instagram" height="20px" src="https://i.pinimg.com/originals/3b/21/c7/3b21c7efd2ba9c119fb8d361acacc31d.png" />

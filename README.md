@@ -43,7 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrormac&layout=compact&hide=c" width="45%" />
 </a>
 
-- Some fun fact: 
+- Some fun facts: 
   -Top 500 on Overwatch <code><img alt="Overwatch" height="20px" src="https://i.dlpng.com/static/png/5454275-overwatch-icon-png-271882-free-icons-library-overwatch-symbol-transparent-1280_1280_preview.png"/></code>
   -Top 700 on Halo 5 <code><img alt="Halo 5" height="20px" src="https://lookingforclan.com/sites/default/files/styles/icon/public/2018-09/halo-5-icon_0.png.jpg?itok=T3D10jrB"/></code>
   

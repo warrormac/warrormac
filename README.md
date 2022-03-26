@@ -5,6 +5,7 @@
 - Im very interested in Big Data, Data Structures and Crypto.
 - Windows is my daily driver, but I use Linux and Arch Linux when i need more power.
 - VS is my preferred IDE and editor. 
+- I like to experiment with hardware and software. 
 
 
 ### Connect with me:

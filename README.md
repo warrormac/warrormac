@@ -47,6 +47,7 @@
 - Some fun facts: 
   -Top 500 on Overwatch <code><img alt="Overwatch" height="20px" src="https://i.dlpng.com/static/png/5454275-overwatch-icon-png-271882-free-icons-library-overwatch-symbol-transparent-1280_1280_preview.png"/></code>
   -Top 700 on Halo 5 <code><img alt="Halo 5" height="20px" src="https://lookingforclan.com/sites/default/files/styles/icon/public/2018-09/halo-5-icon_0.png.jpg?itok=T3D10jrB"/></code>
+  -Ethereum Minner <code><img alt="Etherium"height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyMiS625KWN3MgHHJN_IKwp_ROYjUOZuBKlcfm58_2wmZAfLtqkv2hVp3h8ZHPAXO8SJc&usqp=CAU"/></code>
   
 
 

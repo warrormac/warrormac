@@ -30,7 +30,7 @@
 <code><img alt="Visual Studio" height="20px" src="https://p.kindpng.com/picc/s/13-130970_visual-studio-2019-icon-hd-png-download.png"/></code>
 <code><img alt="C++" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></code>
 <code><img alt="Java" height="20px" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png"/></code>
-<code><img alt="Python" height="20px" src="https://img1.freepng.es/20180417/pyw/kisspng-python-computer-icons-tutorial-computer-programmin-social-icons-5ad5ccbaf08df9.5064028315239610189853.jpg"
+<code><img alt="Python" height="20px" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png"/></code>
 <code><img alt="Git" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img alt="GitHub" height="20px" src="https://pbs.twimg.com/media/EuQcdomWgAAxP5_.png" /></code>
 <code><img alt="Terminal" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>

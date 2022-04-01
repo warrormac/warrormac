@@ -63,10 +63,11 @@
 -Top 500 on Overwatch<img alt="GIF" src="https://logos-marcas.com/wp-content/uploads/2020/05/Overwatch-S%C3%ADmbolo.png" width="3%" height=3%/>
 
 -Top 700 on Halo 5 <img alt="Halo 5" height="20px" src="https://lookingforclan.com/sites/default/files/styles/icon/public/2018-09/halo-5-icon_0.png.jpg?itok=T3D10jrB"/>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
 
 -Ethereum Minner <img alt="Etherium" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ethereum_logo_translucent.svg/800px-Ethereum_logo_translucent.svg.png"/>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
+
 
 
   

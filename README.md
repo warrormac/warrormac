@@ -41,7 +41,7 @@
 <img title="Github" height="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></code>
 <img title="OpenGL" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png"/></code>
 <img title="Terminal" height="20px" src="https://w7.pngwing.com/pngs/77/473/png-transparent-computer-icons-computer-terminal-others-angle-rectangle-logo.png"/></code>
-<img title="Unity" height="20px" src="https://1000marcas.net/wp-content/uploads/2021/02/Unity-Logo-tumb.png"/></code>
+<img title="Unity" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png"/></code>
 
 
 **OS**

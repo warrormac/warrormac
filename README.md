@@ -28,8 +28,9 @@
 
 **Programming Languages**
 <hr>
-<img title="C++" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
-<img title="Java" alt="Java" width="40px" src="https://freepikpsd.com/file/2019/10/java-logo-transparent-png-5-Transparent-Images.png">
+
+<img title="C++" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+<img title="Java" alt="Java" width="40px" src="https://freepikpsd.com/file/2019/10/java-logo-transparent-png-5-Transparent-Images.png" />
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 **Code IDE**

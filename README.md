@@ -46,6 +46,7 @@
 
 **OS**
 <hr>
+
 <img title="Arch Linux" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"/> <img title="Ubuntu" height="20px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/> <img title="Windows 10" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/>
 
 <br /><br />

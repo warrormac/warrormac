@@ -60,7 +60,7 @@
 
 ## Some fun facts:
 
-<image align="Right"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
+<image align="right"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
 
 -Top 500 on Overwatch<img alt="GIF" src="https://logos-marcas.com/wp-content/uploads/2020/05/Overwatch-S%C3%ADmbolo.png" width="3%" height=3%/>
     <br/>

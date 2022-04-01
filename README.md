@@ -4,6 +4,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy-downsized-large.gif" width="40%" height=30%/>
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
+
 - Im very interested in Big Data, Data Structures and Crypto.
 - Windows is my daily driver, but I use Linux and Arch Linux when i need more power.
 - VS is my preferred IDE and editor. 
@@ -56,7 +58,6 @@
 
 ## Some fun facts:
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
 -Top 500 on Overwatch<img alt="GIF" src="https://logos-marcas.com/wp-content/uploads/2020/05/Overwatch-S%C3%ADmbolo.png" width="3%" height=3% /> <br />
 -Top 700 on Halo 5 <img alt="Halo 5" height="20px" src="https://lookingforclan.com/sites/default/files/styles/icon/public/2018-09/halo-5-icon_0.png.jpg?itok=T3D10jrB" /><br />
 -Ethereum Minner <img alt="Etherium" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ethereum_logo_translucent.svg/800px-Ethereum_logo_translucent.svg.png" />

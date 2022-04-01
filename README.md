@@ -38,10 +38,10 @@
 **Tools**
 <img title="Cmake" height="20px" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png"/></code>
 <img title="Git" height="20px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"/></code>
-<img title="Github" height="20px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></code>
+<img title="Github" height="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></code>
 <img title="OpenGL" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png"/></code>
 <img title="Terminal" height="20px" src="https://w7.pngwing.com/pngs/77/473/png-transparent-computer-icons-computer-terminal-others-angle-rectangle-logo.png"/></code>
-<img title="Unity" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png"/></code>
+<img title="Unity" height="20px" src="https://1000marcas.net/wp-content/uploads/2021/02/Unity-Logo-tumb.png"/></code>
 
 
 **OS**

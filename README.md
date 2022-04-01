@@ -58,11 +58,10 @@
 
 <br />
 
+## Some fun facts:
 
 <p align="Right"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
 
-
-## Some fun facts:
   -Top 500 on Overwatch<img alt="GIF" src="https://logos-marcas.com/wp-content/uploads/2020/05/Overwatch-S%C3%ADmbolo.png" width="3%" height=3%/>
     <br/>
   -Top 700 on Halo 5 <img alt="Halo 5" height="20px" src="https://lookingforclan.com/sites/default/files/styles/icon/public/2018-09/halo-5-icon_0.png.jpg?itok=T3D10jrB"/>

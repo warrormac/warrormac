@@ -41,8 +41,9 @@
 <code><img alt="Terminal" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
 **OS**
-
-
+<img title="Arch Linux" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"/></code>
+<img title="Ubuntu" height="20px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/></code>
+<img title="Windows 10" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/></code>
 
 <br /><br />
 

@@ -28,7 +28,7 @@
 
 **Programming Languages**
 <img title="C++" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
-<img title="Java" alt="Java" width="40px" src="https://e7.pngegg.com/pngimages/510/15/png-clipart-java-programming-computer-programming-programming-language-android-coffee-jar-text-logo.png">
+<img title="Java" alt="Java" width="40px" src="https://w7.pngwing.com/pngs/961/251/png-transparent-java-runtime-environment-programming-language-programmer-computer-programming-java-text-logo-software-developer.png">
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 **Code IDE**

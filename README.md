@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy-downsized-large.gif" width="40%" height=30%/>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
+
 
 - Im very interested in Big Data, Data Structures and Crypto.
 - Windows is my daily driver, but I use Linux and Arch Linux when i need more power.
@@ -26,7 +26,8 @@
   </code>
 </a>
 
-
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
+    
 <hr>
 
 ### Programming Languages:

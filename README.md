@@ -43,7 +43,7 @@
   <img align="center"<img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="Warrormac" alt="Andre's Github stats" width="54%" />
 </a>
 <a href="https://github.com/Andre's/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrormac&layout=compact&hide=c" width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrormac&show_icons=true&theme=gotham" width="45%" />
 </a>
 
 - Some fun facts: 

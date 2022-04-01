@@ -41,7 +41,7 @@
 <img title="Github" height="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></code>
 <img title="OpenGL" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png"/></code>
 <img title="Terminal" height="20px" src="https://w7.pngwing.com/pngs/77/473/png-transparent-computer-icons-computer-terminal-others-angle-rectangle-logo.png"/></code>
-<img title="Unity" height="20px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png"/></code>
+<img title="Unity" height="20px" src="https://www.uniat.com/wp-content/uploads/2017/09/unity-logo-black_1280.0.jpg"/></code>
 
 
 **OS**

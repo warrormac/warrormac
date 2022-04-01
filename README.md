@@ -1,6 +1,6 @@
 # Hi there, I'm Andre - aka Warrormac 
 
-## I'm a Student, Developer, and a UCSP ACM Officer!
+## I'm a Student, Developer, and a UCSP ACM Officer! <iframe src="https://giphy.com/embed/nIoUgc3KW2BF5rxVj2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nIoUgc3KW2BF5rxVj2">via GIPHY</a></p>
 
 - Im very interested in Big Data, Data Structures and Crypto.
 - Windows is my daily driver, but I use Linux and Arch Linux when i need more power.

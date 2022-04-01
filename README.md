@@ -29,11 +29,11 @@
 **Programming Languages**
 <hr>
 
-<img title="C" alt="C" width="30px" src="https://img.icons8.com/color/452/c-programming.png" /> <img title="C++" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /> <img title="Java" alt="Java" width="30px" src="https://freepikpsd.com/file/2019/10/java-logo-transparent-png-5-Transparent-Images.png" /> <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img title="C" alt="C" width="35px" src="https://img.icons8.com/color/452/c-programming.png" /> <img title="C++" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /> <img title="Java" alt="Java" width="30px" src="https://freepikpsd.com/file/2019/10/java-logo-transparent-png-5-Transparent-Images.png" /> <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 **Code IDE**
 <hr>
-<img title="Visual Studio Code" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /></code> <img titel="Visual Studio" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png"/></code>
+<img title="Visual Studio Code" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /> <img titel="Visual Studio" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png"/>
 
 **Tools**
 <hr>
@@ -42,7 +42,7 @@
 
 **OS**
 <hr>
-<img title="Arch Linux" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"/> <img title="Ubuntu" height="20px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/> <img title="Windows 10" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/></code>
+<img title="Arch Linux" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"/> <img title="Ubuntu" height="20px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/> <img title="Windows 10" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/>
 
 <br /><br />
 

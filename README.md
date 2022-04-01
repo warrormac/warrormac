@@ -36,9 +36,13 @@
 <img titel="Visual Studio" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png"/></code>
 
 **Tools**
-<code><img alt="Git" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img alt="GitHub" height="20px" src="https://pbs.twimg.com/media/EuQcdomWgAAxP5_.png" /></code>
-<code><img alt="Terminal" height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+<img title="Cmake" height="20px" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png"/></code>
+<img title="Git" height="20px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"/></code>
+<img title="Github" height="20px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></code>
+<img title="OpenGL" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png"/></code>
+<img title="Terminal" height="20px" src="https://w7.pngwing.com/pngs/77/473/png-transparent-computer-icons-computer-terminal-others-angle-rectangle-logo.png"/></code>
+<img title="Unity" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png"/></code>
+
 
 **OS**
 <img title="Arch Linux" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"/></code>

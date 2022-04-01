@@ -1,6 +1,6 @@
 # Hi there, I'm Andre - aka Warrormac 
 
-## I'm a Student, Developer, and a UCSP ACM Officer! <img src="https://giphy.com/clips/art-loop-3d-42vWedh6ZGb0pkMWXI" width="25px">
+## I'm a Student, Developer, and a UCSP ACM Officer! <img src="https://giphy.com/clips/art-loop-3d-42vWedh6ZGb0pkMWXI.gif" width="25px">
 
 
 

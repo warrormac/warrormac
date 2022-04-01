@@ -41,9 +41,8 @@
 
 <br /><br />
 
-<a href="https://github.com/warrormac/github-readme-stats">
-  <img align="center"<img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="Warrormac"  />
-</a>
+## My Github Stats 📈
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
 
 
 - Some fun facts: 

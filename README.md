@@ -40,11 +40,9 @@
 
 
 <a href="https://github.com/warrormac/github-readme-stats">
-  <img align="center"<img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="Warrormac" alt="Andre's Github stats" width="54%" />
+  <img align="center"<img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="Warrormac" alt="Andre's Github stats" width="60%" />
 </a>
-<a href="https://github.com/Andre's/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrormac&show_icons=true&theme=gotham" width="35%" />
-</a>
+
 
 - Some fun facts: 
   -Top 500 on Overwatch <code><img alt="Overwatch" height="20px" src="https://i.dlpng.com/static/png/5454275-overwatch-icon-png-271882-free-icons-library-overwatch-symbol-transparent-1280_1280_preview.png"/></code>

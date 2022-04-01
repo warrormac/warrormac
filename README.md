@@ -37,14 +37,12 @@
 
 **Tools**
 <hr>
-<img title="Cmake" height="20px" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png"/></code> <img title="Git" height="20px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"/></code> <img title="Github" height="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></code> <img title="OpenGL" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png"/></code> <img title="Terminal" height="20px" src="https://w7.pngwing.com/pngs/77/473/png-transparent-computer-icons-computer-terminal-others-angle-rectangle-logo.png"/></code> <img title="Unity" height="20px" src="https://www.uniat.com/wp-content/uploads/2017/09/unity-logo-black_1280.0.jpg"/></code>
+<img title="Cmake" height="20px" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png"/> <img title="Git" height="20px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"/> <img title="Github" height="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> <img title="OpenGL" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png"/> <img title="Terminal" height="20px" src="https://w7.pngwing.com/pngs/77/473/png-transparent-computer-icons-computer-terminal-others-angle-rectangle-logo.png"/> <img title="Unity" height="20px" src="https://www.uniat.com/wp-content/uploads/2017/09/unity-logo-black_1280.0.jpg"/>
 
 
 **OS**
 <hr>
-<img title="Arch Linux" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"/></code>
-<img title="Ubuntu" height="20px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/></code>
-<img title="Windows 10" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/></code>
+<img title="Arch Linux" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"/> <img title="Ubuntu" height="20px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/> <img title="Windows 10" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/></code>
 
 <br /><br />
 

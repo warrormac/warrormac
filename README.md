@@ -27,15 +27,18 @@
 <br />
 
 **Programming Languages**
+<hr>
 <img title="C++" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 <img title="Java" alt="Java" width="40px" src="https://freepikpsd.com/file/2019/10/java-logo-transparent-png-5-Transparent-Images.png">
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 **Code IDE**
+<hr>
 <img title="Visual Studio Code" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /></code>
 <img titel="Visual Studio" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png"/></code>
 
 **Tools**
+<hr>
 <img title="Cmake" height="20px" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png"/></code>
 <img title="Git" height="20px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"/></code>
 <img title="Github" height="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></code>
@@ -45,6 +48,7 @@
 
 
 **OS**
+<hr>
 <img title="Arch Linux" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"/></code>
 <img title="Ubuntu" height="20px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/></code>
 <img title="Windows 10" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png"/></code>

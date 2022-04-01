@@ -16,19 +16,16 @@
 
 <a href="https://www.linkedin.com/in/andre-alvarez-5b2498106/">
 <code>
-    <img alt="Andre Alvarez | LinkedIn" height="20px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" />
-  </code>
+    <img alt="Andre Alvarez | LinkedIn" height="20px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" /></code>
 </a>
 
 <a href="https://www.instagram.com/andre_alvarez_251/">
   <code>
-    <img alt="Andre Alvarez | Instagram" height="20px" src="https://i.pinimg.com/originals/3b/21/c7/3b21c7efd2ba9c119fb8d361acacc31d.png" />
-  </code>
+    <img alt="Andre Alvarez | Instagram" height="20px" src="https://i.pinimg.com/originals/3b/21/c7/3b21c7efd2ba9c119fb8d361acacc31d.png" /></code>
 </a>
 <a href="mailto:andre.alvarez@ucsp.edu.pe">
 <code>   
-    <img alt="Gmail" height="20px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" />
-  </code>
+    <img alt="Gmail" height="20px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" /></code>
 </a>
     
 <hr>
@@ -65,13 +62,4 @@
 
 ## My Github Stats 📈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
-
-
-
-
-
-  
-
-  
-
 

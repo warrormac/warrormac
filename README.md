@@ -40,7 +40,7 @@
 
 
 <a href="https://github.com/warrormac/github-readme-stats">
-  <p align="center"<img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="Warrormac"  />
+  <img align="center"<img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="Warrormac"  />
 </a>
 
 

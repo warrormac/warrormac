@@ -13,7 +13,11 @@
 
 
 ### Connect with me:
-
+<a href="mailto:aaron.apaza@ucsp.edu.pe">
+<code>   
+    <img alt="Gmail" height="20px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" />
+  </code>
+</a>
 <a href="https://www.linkedin.com/in/andre-alvarez-5b2498106/">
 <code>
     <img alt="Andre Alvarez | LinkedIn" height="20px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" />

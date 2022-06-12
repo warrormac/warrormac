@@ -32,7 +32,7 @@
 
 ### Programming Languages:
 
-<img title="C" alt="C" width="35px" src="https://img.icons8.com/color/452/c-programming.png" /> <img title="C++" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /> <img title="C#" alt="C#" width="35px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /><img title="Java" alt="Java" width="30px" src="https://freepikpsd.com/file/2019/10/java-logo-transparent-png-5-Transparent-Images.png" /> <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img title="C" alt="C" width="35px" src="https://img.icons8.com/color/452/c-programming.png" /> <img title="C++" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /> <img title="C#" alt="C#" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /><img title="Java" alt="Java" width="30px" src="https://freepikpsd.com/file/2019/10/java-logo-transparent-png-5-Transparent-Images.png" /> <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 
 
 

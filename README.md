@@ -1,62 +1,82 @@
 # Hi there, I'm Andre - aka Warrormac 
 
-## I'm a Student, Developer, and a UCSP ACM Officer! 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy-downsized-large.gif" width="40%" height=30%/>
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/64c036009bf114c007f28218a998765c/tumblr_olzum8ztsF1vdwh7uo1_500.gif" width="30%" height=30%/>
 
 
+I'm a Computer Scientist and C++/Python Developer with over 5 years of experience in back-end development and 1.5 years in Data Science. I thrive on challenges and have a deep passion for learning, problem-solving, and innovation. My expertise lies in building scalable back-end systems with Python and tackling Big Data and Data Visualization problems using advanced AI techniques.
 
-- Im very interested in Big Data, Data Structures and Crypto.
-- Windows is my daily driver, but I use Linux and Arch Linux when i need more power.
-- VS is my preferred IDE and editor. 
-- I like to experiment with hardware and software. 
+I’ve worked on projects leveraging transformers, neural networks, and K-Nearest Neighbors (K-NN), and I enjoy experimenting with new technologies, frameworks, and algorithms. I’ve also contributed to research papers at Universidad Católica San Pablo, further fueling my drive for knowledge.
 
 
+## 💡 What excites me?
+* Solving complex problems with elegant solutions
+* Learning new technologies and algorithms
+* Exploring the intersection of software development and AI
+* Working with transdisciplinary teams to create impactful solutions
+  
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/andre-alvarez-5b2498106/">
-<code>
-    <img alt="Andre Alvarez | LinkedIn" height="30px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" /></code>
-</a>
 
-<a href="https://www.instagram.com/andre_alvarez_251/">
-  <code>
-    <img alt="Andre Alvarez | Instagram" height="30px" src="https://i.pinimg.com/originals/3b/21/c7/3b21c7efd2ba9c119fb8d361acacc31d.png" /></code>
+<a href="https://www.linkedin.com/in/andre-alvarez-5b2498106/">
+    <img alt="LinkedIn" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
 </a>
+&nbsp;
+<a href="https://www.instagram.com/andre_alvarez_251/">
+    <img alt="Instagram" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
+</a>
+&nbsp;
 <a href="mailto:andre.alvarez@ucsp.edu.pe">
-<code>   
-    <img alt="Gmail" height="30px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" /></code>
+    <img alt="Gmail" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg"/>
 </a>
     
-<hr>
+</p>
+
+---
 
 ### Programming Languages:
 
-<img title="C" alt="C" width="35px" src="https://img.icons8.com/color/452/c-programming.png" /> <img title="C++" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /> <img title="C#" alt="C#" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /><img title="Java" alt="Java" width="30px" src="https://freepikpsd.com/file/2019/10/java-logo-transparent-png-5-Transparent-Images.png" /> <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+### Programming Languages:
+
+<p>
+    <img title="C" alt="C" width="43px" height="43px" src="https://img.icons8.com/color/452/c-programming.png" /> 
+    <img title="C++" alt="C++" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> 
+    <img title="Java" alt="Java" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /> 
+    <img title="Python" alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+</p>
+
+
+
+---
+
+
+### Preferred Code Editors:
+
+<img title="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />   <img title="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
+
+---
+
+
+### Development Tools:
+
+<p>
+    <img title="CMake" alt="CMake" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/> 
+    <img title="Git" alt="Git" width="40px" height="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/> 
+    <img title="GitHub" alt="GitHub" width="40px" height="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> 
+    <img title="GitLab" alt="GitLab" width="40px" height="40px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png"/> 
+    <img title="Digital Ocean" alt="Digital Ocean" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg"/>  
+    <img title="StarUML" alt="StarUML" width="40px" height="40px" src="https://staruml.io/image/staruml_logo.png"/>  
+    <img title="Postman" alt="Postman" width="40px" height="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/> 
+    <img title="AWS" alt="AWS" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>  
+</p>
 
 
 
 
-<hr>
-
-### Code IDE:
-
-<img title="Visual Studio Code" width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />   <img titel="Visual Studio" width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png" />
-
-<hr>
-
-### Tools:
-
-<img title="Cmake" height="30px" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png"/> <img title="Git" height="30px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"/> <img title="Github" height="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> <img title="OpenGL" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png"/>  <img title="StarUML" height="30px" src="https://staruml.io/image/staruml_logo.png"/>  <img title="Terminal" height="30px" src="https://w7.pngwing.com/pngs/77/473/png-transparent-computer-icons-computer-terminal-others-angle-rectangle-logo.png"/> <img title="Unity" height="30px" src="https://www.uniat.com/wp-content/uploads/2017/09/unity-logo-black_1280.0.jpg"/> <img title="VmWare" height="25px" src="https://sourcecloud.co.uk/wp-content/uploads/2020/01/vmware-png-logo-10.png"/>
-
-
-
-    
-<hr>
+---
 
 ### OS:
 
-<img title="Arch Linux" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"/> <img title="Ubuntu" height="30px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/> <img title="Windows 10" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />
+<img title="Ubuntu" height="30px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/> <img title="Windows 10" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />
 
 <hr>
 

@@ -74,11 +74,9 @@ I’ve worked on projects leveraging transformers, neural networks, and K-Neares
 
 <img title="Ubuntu" height="30px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Ubuntu-Emblema.png"/> <img title="Windows 10" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />
 
-<hr>
 
 
-<br />
 
-## My Github Stats 📈
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=warrormac&show_icons=true&theme=gotham" alt="warrormac" />
+
+
 

@@ -8,7 +8,7 @@ I'm a Computer Scientist and C++/Python Developer with over 5 years of experienc
 I’ve worked on projects leveraging transformers, neural networks, and K-Nearest Neighbors (K-NN), and I enjoy experimenting with new technologies, frameworks, and algorithms. I’ve also contributed to research papers at Universidad Católica San Pablo, further fueling my drive for knowledge.
 
 
-## 💡 What excites me?
+## 💡 What I find fun?
 * Solving complex problems with elegant solutions
 * Learning new technologies and algorithms
 * Exploring the intersection of software development and AI

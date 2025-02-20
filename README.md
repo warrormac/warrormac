@@ -21,10 +21,6 @@ I’ve worked on projects leveraging transformers, neural networks, and K-Neares
     <img alt="LinkedIn" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/andre_alvarez_251/">
-    <img alt="Instagram" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
-</a>
-&nbsp;
 <a href="mailto:andre.alvarez@ucsp.edu.pe">
     <img alt="Gmail" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg"/>
 </a>
